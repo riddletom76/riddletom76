@@ -2,7 +2,7 @@
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/rishabh_76?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/rishabh_76)
 
-## I'm a Developer, and Teacher!!
+## I'm a Software Developer!!
 
 - 🌱 I’m currently learning everything 🤣
 - Aspiring FullStack Developer!
