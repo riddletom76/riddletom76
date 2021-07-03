@@ -1,6 +1,6 @@
 ### Hi there, I'm Rishabh - aka riddletom76 👋
 
-[![Twitter Follow](https://img.shields.io/twitter/follow/codeSTACKr?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/rishabh_76)
+[![Twitter Follow](https://img.shields.io/twitter/follow/rishabh_76?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/rishabh_76)
 
 ## I'm a Developer, and Teacher!!
 
