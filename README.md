@@ -39,11 +39,11 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Sorting Elements of an Array by Frequency | GeeksForGeeks | C#](https://www.youtube.com/watch?v=lilUf8RoM4U)
 - [Ticket Counter | GeeksForGeeks | C#](https://www.youtube.com/watch?v=1ji5yyDcT-0)
 - [K Consecutive Odd Elements | GeeksForGeeks | C#](https://www.youtube.com/watch?v=UBwYS_4ets8)
 - [K Largest Values - II | GeeksForGeeks | C#](https://www.youtube.com/watch?v=aKUoFpZcU5c)
 - [K Largest Values | GeeksForGeeks | C#](https://www.youtube.com/watch?v=bJ8gS7gHLk4)
-- [How to create .NetCore or .Net 5 apps on Ubuntu](https://www.youtube.com/watch?v=wXYjytgZLQs)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...](https://www.youtube.com/channel/UC4H8AS3VnEP7Rrtg4_S0_gA)
