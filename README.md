@@ -39,7 +39,7 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
-- [Linux user Installing a Web Browser](https://www.youtube.com/watch?v=4tVwPSUI1fE)
+- [Linux noob Installing a Web Browser](https://www.youtube.com/watch?v=4tVwPSUI1fE)
 - [What is MVC?](https://www.youtube.com/watch?v=oG9tfu8UNZQ)
 - [How to define a Proto to send a list in gRPC Service | C# .NetCore |](https://www.youtube.com/watch?v=9Gdc6BZzuCY)
 - [Sorting Elements of an Array by Frequency | GeeksForGeeks | C#](https://www.youtube.com/watch?v=lilUf8RoM4U)
