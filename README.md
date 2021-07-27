@@ -39,11 +39,11 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Easiest way to install KDE Plasma Desktop Environment on Ubuntu](https://www.youtube.com/watch?v=L-4zLonZk7I)
 - [Linux Noob Installing a Web Browser](https://www.youtube.com/watch?v=4tVwPSUI1fE)
 - [What is MVC?](https://www.youtube.com/watch?v=oG9tfu8UNZQ)
 - [How to define a Proto to send a list in gRPC Service | C# .NetCore |](https://www.youtube.com/watch?v=9Gdc6BZzuCY)
 - [Sorting Elements of an Array by Frequency | GeeksForGeeks | C#](https://www.youtube.com/watch?v=lilUf8RoM4U)
-- [Ticket Counter | GeeksForGeeks | C#](https://www.youtube.com/watch?v=1ji5yyDcT-0)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...](https://www.youtube.com/channel/UC4H8AS3VnEP7Rrtg4_S0_gA)
