@@ -39,7 +39,7 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
-- [Easiest way to install KDE Plasma Desktop Environment on Ubuntu](https://www.youtube.com/watch?v=L-4zLonZk7I)
+- [How to beautify Ubuntu 20.04 with KDE Plasma DE](https://www.youtube.com/watch?v=L-4zLonZk7I)
 - [Linux Noob Installing a Web Browser](https://www.youtube.com/watch?v=4tVwPSUI1fE)
 - [What is MVC?](https://www.youtube.com/watch?v=oG9tfu8UNZQ)
 - [How to define a Proto to send a list in gRPC Service | C# .NetCore |](https://www.youtube.com/watch?v=9Gdc6BZzuCY)
