@@ -39,7 +39,7 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
-- [How to create .Net Core MQTT Client](https://www.youtube.com/watch?v=lcsnsj1yBs0)
+- [How to create MQTT Client using .Net Core](https://www.youtube.com/watch?v=lcsnsj1yBs0)
 - [REST vs WebHooks vs WebSockets](https://www.youtube.com/watch?v=He9U4T1V__c)
 - [How to install KDE Plasma Desktop Environment on Ubuntu](https://www.youtube.com/watch?v=L-4zLonZk7I)
 - [How to install a web browser on Linux - The Easy Way!](https://www.youtube.com/watch?v=4tVwPSUI1fE)
