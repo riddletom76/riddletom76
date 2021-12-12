@@ -39,11 +39,11 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [How to Implement End-to-End Encryption for MQTT Communication using .Net Core](https://www.youtube.com/watch?v=2qZftULOefY)
 - [How to establish secure MQTT communication &lpar;TLS&rpar; using .Net Core](https://www.youtube.com/watch?v=X6WkZyvOHXc)
 - [How to create MQTT Client using .Net Core](https://www.youtube.com/watch?v=lcsnsj1yBs0)
 - [REST vs WebHooks vs WebSockets](https://www.youtube.com/watch?v=He9U4T1V__c)
 - [How to install KDE Plasma Desktop Environment on Ubuntu](https://www.youtube.com/watch?v=L-4zLonZk7I)
-- [How to install a web browser on Linux - The Easy Way!](https://www.youtube.com/watch?v=4tVwPSUI1fE)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...](https://www.youtube.com/channel/UC4H8AS3VnEP7Rrtg4_S0_gA)
