@@ -39,7 +39,7 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
-- [Garbage Collector in C# .NetCore: Explained!](https://www.youtube.com/watch?v=JnlLMqx8jTM)
+- [Garbage Collection in C# .NetCore: Explained!](https://www.youtube.com/watch?v=JnlLMqx8jTM)
 - [What Improvements .Net 6 brings for gRPC?](https://www.youtube.com/watch?v=0yDaLgrA7yo)
 - [How to Implement End-to-End Encryption for MQTT Communication using .Net Core](https://www.youtube.com/watch?v=2qZftULOefY)
 - [TLS based secure MQTT Communication using .Net Core](https://www.youtube.com/watch?v=X6WkZyvOHXc)
