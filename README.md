@@ -39,11 +39,11 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [What is Startup Class in ASP .NetCore Applications?](https://www.youtube.com/watch?v=VFNae29uCrI)
 - [Garbage Collection in C# .NetCore: Explained!](https://www.youtube.com/watch?v=JnlLMqx8jTM)
 - [What Improvements .Net 6 brings for gRPC?](https://www.youtube.com/watch?v=0yDaLgrA7yo)
 - [How to Implement End-to-End Encryption for MQTT Communication using .Net Core](https://www.youtube.com/watch?v=2qZftULOefY)
 - [TLS based secure MQTT Communication using .Net Core](https://www.youtube.com/watch?v=X6WkZyvOHXc)
-- [How to create MQTT Client using .Net Core](https://www.youtube.com/watch?v=lcsnsj1yBs0)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...](https://www.youtube.com/channel/UC4H8AS3VnEP7Rrtg4_S0_gA)
