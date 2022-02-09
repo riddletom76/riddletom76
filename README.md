@@ -39,7 +39,7 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
-- [What are Minimal APIs in .Net 6?](https://www.youtube.com/watch?v=Y3rqs0xb1Rk)
+- [What is Minimal hosting model in .Net 6?](https://www.youtube.com/watch?v=Y3rqs0xb1Rk)
 - [What is Startup Class in ASP .NetCore Applications?](https://www.youtube.com/watch?v=VFNae29uCrI)
 - [Garbage Collection in C# .NetCore: Explained!](https://www.youtube.com/watch?v=JnlLMqx8jTM)
 - [What Improvements .Net 6 brings for gRPC?](https://www.youtube.com/watch?v=0yDaLgrA7yo)
