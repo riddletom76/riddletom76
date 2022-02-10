@@ -39,7 +39,7 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
-- [How to Migrate ASP .NetCore 3.1/ .Net5 Web Application to .Net 6? Is Startup.cs obsolete?](https://www.youtube.com/watch?v=UdFGBQgrwHw)
+- [Is the Startup class obsolete? Migrating an ASP .NetCore web app from .NetCore 3.1 to .Net 6!](https://www.youtube.com/watch?v=UdFGBQgrwHw)
 - [What is Minimal hosting model in .Net 6?](https://www.youtube.com/watch?v=Y3rqs0xb1Rk)
 - [What is Startup Class in ASP .NetCore Applications?](https://www.youtube.com/watch?v=VFNae29uCrI)
 - [Garbage Collection in C# .NetCore: Explained!](https://www.youtube.com/watch?v=JnlLMqx8jTM)
