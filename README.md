@@ -39,11 +39,11 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [How to Migrate ASP .NetCore 3.1/ .Net5 Web Application to .Net 6? Is Startup.cs obsolete?](https://www.youtube.com/watch?v=UdFGBQgrwHw)
 - [What is Minimal hosting model in .Net 6?](https://www.youtube.com/watch?v=Y3rqs0xb1Rk)
 - [What is Startup Class in ASP .NetCore Applications?](https://www.youtube.com/watch?v=VFNae29uCrI)
 - [Garbage Collection in C# .NetCore: Explained!](https://www.youtube.com/watch?v=JnlLMqx8jTM)
 - [What Improvements .Net 6 brings for gRPC?](https://www.youtube.com/watch?v=0yDaLgrA7yo)
-- [How to Implement End-to-End Encryption for MQTT Communication using .Net Core](https://www.youtube.com/watch?v=2qZftULOefY)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...](https://www.youtube.com/channel/UC4H8AS3VnEP7Rrtg4_S0_gA)
